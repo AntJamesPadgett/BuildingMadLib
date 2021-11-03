@@ -1,0 +1,16 @@
+C:\Users\antho\repos\BuildingMadLib\bin\Debug\net5.0\BuildingMadLib.exe
+C:\Users\antho\repos\BuildingMadLib\bin\Debug\net5.0\BuildingMadLib.deps.json
+C:\Users\antho\repos\BuildingMadLib\bin\Debug\net5.0\BuildingMadLib.runtimeconfig.json
+C:\Users\antho\repos\BuildingMadLib\bin\Debug\net5.0\BuildingMadLib.runtimeconfig.dev.json
+C:\Users\antho\repos\BuildingMadLib\bin\Debug\net5.0\BuildingMadLib.dll
+C:\Users\antho\repos\BuildingMadLib\bin\Debug\net5.0\ref\BuildingMadLib.dll
+C:\Users\antho\repos\BuildingMadLib\bin\Debug\net5.0\BuildingMadLib.pdb
+C:\Users\antho\repos\BuildingMadLib\obj\Debug\net5.0\BuildingMadLib.csproj.AssemblyReference.cache
+C:\Users\antho\repos\BuildingMadLib\obj\Debug\net5.0\BuildingMadLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\BuildingMadLib\obj\Debug\net5.0\BuildingMadLib.AssemblyInfoInputs.cache
+C:\Users\antho\repos\BuildingMadLib\obj\Debug\net5.0\BuildingMadLib.AssemblyInfo.cs
+C:\Users\antho\repos\BuildingMadLib\obj\Debug\net5.0\BuildingMadLib.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\BuildingMadLib\obj\Debug\net5.0\BuildingMadLib.dll
+C:\Users\antho\repos\BuildingMadLib\obj\Debug\net5.0\ref\BuildingMadLib.dll
+C:\Users\antho\repos\BuildingMadLib\obj\Debug\net5.0\BuildingMadLib.pdb
+C:\Users\antho\repos\BuildingMadLib\obj\Debug\net5.0\BuildingMadLib.genruntimeconfig.cache
