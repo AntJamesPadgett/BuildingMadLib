@@ -70,17 +70,34 @@ namespace BuildingMadLib
             //Console.WriteLine(num1 *num2);
             //Console.ReadLine();
 
-            Console.Write("enter a number: ");
-            double num1 = Convert.ToDouble(Console.ReadLine());
-            Console.Write("enter another number: ");
-            double num2 = Convert.ToDouble(Console.ReadLine());
-            
-            Console.WriteLine(num1*num2);
-            Console.ReadLine();
+            //Console.Write("Enter a number: ");
+            //double num1 = Convert.ToDouble(Console.ReadLine());
+            //Console.Write("Enter another number: ");
+            //double num2 = Convert.ToDouble(Console.ReadLine());
 
+            //Console.WriteLine(num1 * num2);
+
+            //Console.ReadLine();
+
+            string color, pluralNoun, celebrity;
+
+            Console.Write("Enter your favorite color:");
+            color = Console.ReadLine();
+            Console.Write("Enter your favorite plural noun: ");
+            pluralNoun = Console.ReadLine();
+            Console.Write("Enter your favorite celebrity: ");
+            celebrity = Console.ReadLine();
+
+            Console.WriteLine($"Roses are {color}");
+            Console.WriteLine($"{pluralNoun} are green");
+            Console.WriteLine($"{celebrity} is soooo mean");
+
+            Console.ReadLine();
 
 
 
         }
     }
 }
+
+
